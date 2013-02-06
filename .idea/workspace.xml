@@ -29,19 +29,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="web.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="0" selection-start="1213" selection-end="1213" vertical-scroll-proportion="0.5483871">
+            <state line="57" column="36" selection-start="1362" selection-end="1362" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.ejs" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.ejs" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/index.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="73" selection-start="378" selection-end="378" vertical-scroll-proportion="0.0">
+            <state line="13" column="75" selection-start="0" selection-end="450" vertical-scroll-proportion="0.39605734">
               <folding />
             </state>
           </provider>
@@ -125,8 +125,8 @@
         <option value="$PROJECT_DIR$/public/js/modules/models.js" />
         <option value="$PROJECT_DIR$/public/js/modules/views.js" />
         <option value="$PROJECT_DIR$/app.js" />
-        <option value="$PROJECT_DIR$/views/index.ejs" />
         <option value="$PROJECT_DIR$/web.js" />
+        <option value="$PROJECT_DIR$/views/index.ejs" />
       </list>
     </option>
   </component>
@@ -319,7 +319,9 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/public/js/modules/models.js">
@@ -413,16 +415,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/index.ejs">
+    <entry file="file://$PROJECT_DIR$/web.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="73" selection-start="378" selection-end="378" vertical-scroll-proportion="0.0">
+        <state line="57" column="36" selection-start="1362" selection-end="1362" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web.js">
+    <entry file="file://$PROJECT_DIR$/views/index.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="0" selection-start="1213" selection-end="1213" vertical-scroll-proportion="0.5483871">
+        <state line="13" column="75" selection-start="0" selection-end="450" vertical-scroll-proportion="0.39605734">
           <folding />
         </state>
       </provider>
