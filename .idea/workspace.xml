@@ -20,19 +20,19 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app.js">
+      <file leaf-file-name="models.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/modules/models.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="17" selection-start="153" selection-end="153" vertical-scroll-proportion="0.3715847">
+            <state line="10" column="30" selection-start="218" selection-end="218" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="models.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/js/modules/models.js">
+      <file leaf-file-name="web.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="30" selection-start="218" selection-end="218" vertical-scroll-proportion="0.0">
+            <state line="54" column="3" selection-start="1293" selection-end="1293" vertical-scroll-proportion="0.63978493">
               <folding />
             </state>
           </provider>
@@ -187,8 +187,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../quiz" />
   </component>
   <component name="PublishConfig" serverName="bb-quiz-app" serverId="82145c46-7a87-40f3-b931-b5f9b993e3f3">
     <servers>
@@ -333,13 +333,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="0" selection-start="116" selection-end="116" vertical-scroll-proportion="0.0">
@@ -387,13 +380,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/modules/models.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="30" selection-start="218" selection-end="218" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/js/modules/views.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="46" column="35" selection-start="1538" selection-end="1538" vertical-scroll-proportion="0.0">
@@ -401,9 +387,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
+    <entry file="file://$PROJECT_DIR$/public/js/modules/models.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="17" selection-start="153" selection-end="153" vertical-scroll-proportion="0.3715847">
+        <state line="10" column="30" selection-start="218" selection-end="218" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="3" selection-start="1293" selection-end="1293" vertical-scroll-proportion="0.63978493">
           <folding />
         </state>
       </provider>
