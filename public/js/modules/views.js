@@ -32,6 +32,7 @@ define( ["backbone"], function(Backbone) {
             this.model.id = evt.target.id;
             this.model.toggleStatus();
         },
+
         DeletModel: function(evt){
             this.model.id = evt.target.id;
             this.model.DeletModel();
@@ -74,12 +75,9 @@ define( ["backbone"], function(Backbone) {
             if (event.keyCode != 13) return;
             if (!event.target.value) return;
 
-
             //alert(event.target.value);
-            var todoModel = new TodoModel({name:event.target.value, status:false});
-            todoModel.save();
-            var todoView = new TodoView({model: todoModel});
-            this.$el.append(todoView.render().el);
+            this.collection.create({name:event.target.value, status:false})
+
         }
     });
 
