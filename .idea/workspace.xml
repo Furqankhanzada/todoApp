@@ -2,35 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8ea8596-31f4-42fb-85f9-6633cfa423c6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/todo.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/bootstrap.min.css" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\FURQAN\WebstormProjects\todo\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\FURQAN\WebstormProjects\todo\public\css\bootstrap-responsive.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\FURQAN\WebstormProjects\todo\public\css\bootstrap-responsive.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\FURQAN\WebstormProjects\todo\public\css\style.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\FURQAN\WebstormProjects\todo\public\css\style.less" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\FURQAN\WebstormProjects\todo\public\img\glyphicons-halflings-white.png" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\FURQAN\WebstormProjects\todo\public\img\glyphicons-halflings.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\FURQAN\WebstormProjects\todo\public\js\clientapp.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\FURQAN\WebstormProjects\todo\public\js\libs\Backbone.CollectionBinder.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\FURQAN\WebstormProjects\todo\public\js\libs\Backbone.ModelBinder.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\FURQAN\WebstormProjects\todo\public\js\libs\backbone-relational.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\FURQAN\WebstormProjects\todo\public\js\libs\backbone.layoutmanager.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\FURQAN\WebstormProjects\todo\public\js\libs\deep-model.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\FURQAN\WebstormProjects\todo\public\js\modules\jquery.alpha.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\FURQAN\WebstormProjects\todo\public\js\modules\jquery.beta.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap.js" afterPath="$PROJECT_DIR$/public/js/libs/bootstrap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/config.js" afterPath="$PROJECT_DIR$/public/js/config.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/index.ejs" afterPath="$PROJECT_DIR$/views/index.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/main.js" afterPath="$PROJECT_DIR$/public/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/modules/models.js" afterPath="$PROJECT_DIR$/public/js/modules/models.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/modules/routes.js" afterPath="$PROJECT_DIR$/public/js/modules/routes.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/modules/views.js" afterPath="$PROJECT_DIR$/public/js/modules/views.js" />
     </list>
     <ignored path=".idea/" />
     <ignored path="Procfile" />
