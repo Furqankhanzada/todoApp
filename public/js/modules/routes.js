@@ -27,8 +27,7 @@ define( ["backbone"], function(Backbone) {
         },
 
         index: function(){
-            $('.container').html(this.todosView.el);
-            this.todoItems.fetch();
+            $('.container_1').html(this.todosView.el);
         },
 
         start: function(){

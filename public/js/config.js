@@ -13,17 +13,6 @@ require.config({
     jquery: "require-jquery",
     underscore: "libs/underscore",
     backbone: "libs/backbone",
-    //https://github.com/powmedia/backbone-deep-model
-    deep: "libs/deep-model",
-    //https://github.com/theironcook/Backbone.ModelBinder
-    //https://github.com/theironcook/Backbone.ModelBinder/blob/master/sandbox/Example_NestedAttributes.html
-    binder: "libs/Backbone.ModelBinder",
-    //https://github.com/PaulUithol/Backbone-relational#backbonerelationalmodel
-    relational: "libs/backbone-relational",
-    //https://github.com/tbranyen/backbone.layoutmanager
-    layoutManager: "libs/backbone.layoutmanager",
-    alpha: "modules/jquery.alpha",
-    beta: "modules/jquery.beta",
     routes: "modules/routes",
     models: "modules/models",
     views: "modules/views"
@@ -49,7 +38,7 @@ require.config({
     },
 
     main: {
-        deps: ["jquery","underscore", "backbone", "deep","binder","relational", "models", "alpha", "beta", "routes",  "views"],
+        deps: ["jquery","underscore", "backbone", "models", "routes",  "views"],
         exports: "Main"
     },
 
@@ -58,11 +47,11 @@ require.config({
    },
 
   views: {
-      deps: ["jquery","underscore", "backbone", "deep"]
+      deps: ["jquery","underscore", "backbone"]
   },
 
   models: {
-      deps: ["jquery","underscore", "backbone", "deep" ]
+      deps: ["jquery","underscore", "backbone" ]
   }
 
 
